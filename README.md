@@ -1,4 +1,4 @@
-# MVEN-Poc-BackEnd
+# MEVN-Poc-BackEnd
 
 First of all you should have installed Git and Node.
 
