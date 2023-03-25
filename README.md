@@ -8,7 +8,7 @@ First of all you should have installed Git and Node.
 ### Making a clone of git-backend project
 
 ```sh
-git clone https://github.com/LeodanLVL/mven-poc-backend.git
+git clone https://github.com/LeodanLVL/mevn-poc-backend.git
 ```
 
 ## Inside the downloaded folder, run in the terminal 
